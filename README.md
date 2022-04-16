@@ -1,0 +1,2 @@
+# OilShocksLP
+In this study, I examine the effect of oil price shocks on four key US macroeconomic indicators -- real interest rates, industrial production, unemployment rate, and inflation. I use local projections to study how a one percent shock in the oil prices affects the US economy, which is essential, given the current volatility in the market for oil. I find that an increase in the oil prices has a strong and significant impact on all four indicators, implying that oil prices play an important role in the state of the US economy.
